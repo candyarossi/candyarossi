@@ -1,18 +1,12 @@
-### ¡Hola gente! 👋
+# ¡Hola gente! 👋
 
 ## **¡Bienvenidos a mi perfil de Github!** 💻
 
---
+### Me llamo **Candela Yarossi**, soy Diseñadora Gráfica, Desarrolladora Web y Docente ✨
 
-Me llamo **Candela Yarossi**, soy Diseñadora Gráfica, Desarrolladora Web y Docente ✨
+### Si quieres contactarme, puedes escribirme a mi cuenta de [LinkedIn](https://www.linkedin.com/in/candela-yarossi/)!
 
---
-
-Si quieres contactarme, puedes escribirme a mi cuenta de [LinkedIn](https://www.linkedin.com/in/candela-yarossi/)!
-
---
-
-# ¡Gracias por tu visita! 😄
+### ¡Gracias por tu visita! 😄
 
 <!--
 **candyarossi/candyarossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
