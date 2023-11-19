@@ -77,17 +77,24 @@ Puedes ver todos mis proyectos en <a href="#">mi portfolio</a>.
 
 ### Contacto
 
-<a href="mailto:candyarossi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=fff"/>
-</a>
-<a href="https://www.linkedin.com/in/candela-yarossi/">
-    <img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&logoColor=fff"/>
-</a>
-<a href="https://github.com/candyarossi">
-    <img src="https://img.shields.io/badge/Github-purple?logo=github&logoColor=fff"/>
-</a>
+<ul>
+    <li>
+        <a href="mailto:candyarossi@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=fff"/>
+        </a>
+    </li>
+    <li>
+        <a href="https://www.linkedin.com/in/candela-yarossi/">
+            <img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&logoColor=fff"/>
+        </a>
+    </li>
+    <li>
+        <a href="https://github.com/candyarossi">
+            <img src="https://img.shields.io/badge/Github-purple?logo=github&logoColor=fff"/>
+        </a>
+    </li>
+</ul>
 
-<br/>
 <br/>
 
 **¡Gracias por tu visita!** 😄
