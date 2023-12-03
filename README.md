@@ -4,7 +4,7 @@
 
 Me llamo **Candela Yarossi**, soy Diseñadora Gráfica, Desarrolladora Full Stack y Docente ✨
 
-Puedes ver todos mis proyectos en <a href="#">mi portfolio</a>.
+Puedes ver todos mis proyectos en <b><a href="https://candeyarossi.ar">mi portfolio</a></b> 🗂️
 
 ### Lenguajes y tecnologías
 
@@ -14,79 +14,79 @@ Puedes ver todos mis proyectos en <a href="#">mi portfolio</a>.
 
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff"/>&#160;&#160;<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff"/>&#160;&#160;<img src="https://img.shields.io/badge/Adobe%20Indesign-FF3366?logo=adobeindesign&logoColor=fff"/>&#160;&#160;<img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6?logo=adobedreamweaver&logoColor=fff"/>&#160;&#160;<img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?logo=adobeaftereffects&logoColor=fff"/>&#160;&#160;<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobexd&logoColor=fff"/>&#160;&#160;<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=fff"/>&#160;&#160;<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff"/>&#160;&#160;
 
-### Lista de mis proyectos y sus descripciones
+### Lista de mis proyectos (de desarrollo) y sus descripciones
 
 <ul> 
     <li>
         <details>
-            <summary><a href="#"><i>Landing Page - Servicios de Diseño</i></a></summary>
-            Proyecto de la cátedra 'Diseño Web', parte del 4to año de la carrera de Diseño Gráfico. Diseño y maquetación de landing page / portfolio de diseño, haciendo uso de HTML y CSS. 
+            <summary> <i>Tarifa Taxis MDP</i> </summary>
+            Proyecto para generar tarifarios de taxi (Mar del Plata, Bs As, Argentina). Aplicación web confeccionada en el lenguaje JS. 
         </details>
     </li>
     <li>
         <details>
-            <summary><a href="#"><i>Sistema de Sueldos y Jornales</i></a></summary>
-            Proyecto de la cátedra 'Programación / Laboratorio de computación 3', parte del 2do año de la carrera de Programación. Aplicación desktop confeccionada en el lenguaje Java. 
-        </details>
-    </li>
-    <li>
-        <details>
-            <summary><a href="#"><i>Movie Pass</i></a></summary>
-            Proyecto de la cátedra 'Laboratorio de computación 4', parte del 2do año de la carrera de Programación. Aplicación web confeccionada en el lenguaje PHP. 
-        </details>
-    </li>
-    <li>
-        <details>
-            <summary><a href="#"><i>Sistema de Turnos - AMPAT</i></a></summary>
-            Proyecto para la asociación 'AMPAT' (Mar del Plata, Bs As, Argentina), que permite agendar turnos para la atención al cliente. Aplicación desktop confeccionada en el lenguaje Java. 
-        </details>
-    </li>
-    <li>
-        <details>
-            <summary><a href="#"><i>Campus Malharro</i></a></summary>
-            Proyecto de tesis para la Escuela de Artes Visuales Martín A. Malharro (Mar del Plata, Bs As, Argentina). Campus virtual confeccionado en los lenguajes PHP y JS. 
-        </details>
-    </li>
-    <li>
-        <details>
-            <summary><a href="#"><i>La Impactante Web</i></a></summary>
-            Proyecto para la empresa 'La Impactante' (Mar del Plata, Bs As, Argentina), que permite gestionar el stock y pedidos de sus productos. Aplicación web confeccionada en los lenguajes PHP y JS.
-        </details>
-    </li>
-    <li>
-        <details>
-            <summary><a href="#"><i>Proyectos y Actividades - Loris Malaguzzi</i></a></summary>
-            Mini proyectos y actividades para el dictado de clases de la materia 'Taller de Programación' en la escuela 'Loris Malaguzzi' (Mar del Plata, Bs As, Argentina), los cuales fueron utilizados en todos los cursos de escuela secundaria, trabajando los lenguajes Python, PHP, JS, Java y Lua.
-        </details>
-    </li>
-    <li>
-        <details>
-            <summary><a href="#"><i>Actividades de Clase - CoderHouse / Henry</i></a></summary>
-            Mini proyectos y actividades para el dictado de clases de la carrera de 'Programación Full Stack' (JS) en CoderHouse y SoyHenry. Si fuiste mi alumno, y necesitas acceder al código de ellos, ¡No dudes en pedirmelo! 🤗
-        </details>
-    </li>
-    <li>
-        <details>
-            <summary><a href="#"><i>Henry Videogames</i></a></summary>
-            Demo de 'Proyecto Individual (PI)' para el alumnado de SoyHenry. Aplicación web confeccionada principalmente en React y Express.
-        </details>
-    </li>
-    <li>
-        <details>
-            <summary><a href="#"><i>Rick & Morty App</i></a></summary>
-            Demo de 'Proyecto Integrador' para el alumnado de SoyHenry. Aplicación web confeccionada principalmente en React y Express. Si fuiste mi alumno, y necesitas acceder al código, ¡No dudes en pedirmelo! 🤗
-        </details>
-    </li>
-    <li>
-        <details>
-            <summary><a href="#"><i>PI BackUps - Henry</i></a></summary>
+            <summary> <i>PI BackUps - Henry</i> </summary>
             Proyecto para la empresa 'SoyHenry' (Argentina), que permite hacer peticiones de información en formato JSON para la realización de los 'Proyectos Individuales (PI)' de los alumnos. Aplicación web confeccionada principalmente en React y Express. 
         </details>
     </li>
     <li>
         <details>
-            <summary><a href="#"><i>Tarifa Taxis MDP</i></a></summary>
-            Proyecto para generar tarifarios de taxi (Mar del Plata, Bs As, Argentina). Aplicación web confeccionada en el lenguaje JS. 
+            <summary> <i>Rick & Morty App</i> </summary>
+            Demo de 'Proyecto Integrador' para el alumnado de SoyHenry. Aplicación web confeccionada principalmente en React y Express. Si fuiste mi alumno, y necesitas acceder al código, ¡No dudes en pedirmelo! 🤗
+        </details>
+    </li>
+    <li>
+        <details>
+            <summary> <i>Henry Videogames</i> </summary>
+            Demo de 'Proyecto Individual (PI)' para el alumnado de SoyHenry. Aplicación web confeccionada principalmente en React y Express.
+        </details>
+    </li>
+    <li>
+        <details>
+            <summary> <i>Actividades de Clase - CoderHouse / Henry</i> </summary>
+            Mini proyectos y actividades para el dictado de clases de la carrera de 'Programación Full Stack' (JS) en CoderHouse y SoyHenry. Si fuiste mi alumno, y necesitas acceder al código de ellos, ¡No dudes en pedirmelo! 🤗
+        </details>
+    </li>
+    <li>
+        <details>
+            <summary> <i>Proyectos y Actividades - Loris Malaguzzi</i> </summary>
+            Mini proyectos y actividades para el dictado de clases de la materia 'Taller de Programación' en la escuela 'Loris Malaguzzi' (Mar del Plata, Bs As, Argentina), los cuales fueron utilizados en todos los cursos de escuela secundaria, trabajando los lenguajes Python, PHP, JS, Java y Lua.
+        </details>
+    </li>
+    <li>
+        <details>
+            <summary> <i>La Impactante Web</i> </summary>
+            Proyecto para la empresa 'La Impactante' (Mar del Plata, Bs As, Argentina), que permite gestionar el stock y pedidos de sus productos. Aplicación web confeccionada en los lenguajes PHP y JS.
+        </details>
+    </li>
+    <li>
+        <details>
+            <summary> <i>Campus Malharro</i> </summary>
+            Proyecto de tesis para la Escuela de Artes Visuales Martín A. Malharro (Mar del Plata, Bs As, Argentina). Campus virtual confeccionado en los lenguajes PHP y JS. 
+        </details>
+    </li>
+    <li>
+        <details>
+            <summary> <i>Sistema de Turnos - AMPAT</i> </summary>
+            Proyecto para la asociación 'AMPAT' (Mar del Plata, Bs As, Argentina), que permite agendar turnos para la atención al cliente. Aplicación desktop confeccionada en el lenguaje Java. 
+        </details>
+    </li>
+    <li>
+        <details>
+            <summary> <i>Movie Pass</i> </summary>
+            Proyecto de la cátedra 'Laboratorio de computación 4', parte del 2do año de la carrera de Programación. Aplicación web confeccionada en el lenguaje PHP. 
+        </details>
+    </li>
+    <li>
+        <details>
+            <summary> <i>Sistema de Sueldos y Jornales</i> </summary>
+            Proyecto de la cátedra 'Programación / Laboratorio de computación 3', parte del 2do año de la carrera de Programación. Aplicación desktop confeccionada en el lenguaje Java. 
+        </details>
+    </li>
+    <li>
+        <details>
+            <summary> <i>Landing Page - Servicios de Diseño</i> </summary>
+            Proyecto de la cátedra 'Diseño Web', parte del 4to año de la carrera de Diseño Gráfico. Diseño y maquetación de landing page / portfolio de diseño, haciendo uso de HTML y CSS. 
         </details>
     </li>
 </ul>
